@@ -1,23 +1,25 @@
 # Talento-tech
 
-Repositorio para almacenar documentos, archivos, carpetas del curso de IA nivel innovador
+# Talento-tech
 
-## Estructura del Proyecto
+Repository to store documents, files, and folders for the innovative-level AI course for Juan Gabriel Bastidas Delgado.
+
+## Project Structure
 
 ```
 Talento-tech/
 │
-├── caso-de-estudio-final/    # Caso de estudio final del curso
-├── conexion/                  # Archivos de conexión
-├── entrenamiento/             # Actividades y ejercicios de entrenamiento
-├── experiencia/               # Proyectos y experiencias del curso
-└── README.md                  
+├── caso-de-estudio-final/    # Final case study of the course
+├── conexion/                 # Connection files
+├── entrenamiento/            # Training activities and exercises
+├── experiencia/              # Course projects and experiences
+└── README.md                 
 ```
 
-## Descripción de Carpetas
+## Folder Descriptions
 
-- **caso-de-estudio-final**: Contiene el proyecto final del curso
-- **conexion**: Archivos y scripts de conexión a bases de datos o servicios
-- **entrenamiento**: Actividades de práctica y ejercicios (Actividad-1-y-2)
-- **experiencia**: Proyectos prácticos y experiencias de aprendizaje
+- **caso-de-estudio-final**: Contains the final project of the course
+- **conexion**: Files and scripts for connecting to databases or services
+- **entrenamiento**: Practice activities and exercises (Activity-1-and-2)
+- **experiencia**: Practical projects and learning experiences
 
