@@ -1,7 +1,5 @@
 # Talento-tech
 
-# Talento-tech
-
 Repository to store documents, files, and folders for the innovative-level AI course for Juan Gabriel Bastidas Delgado.
 
 ## Project Structure
